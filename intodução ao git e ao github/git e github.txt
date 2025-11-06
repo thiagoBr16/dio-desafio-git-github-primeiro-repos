@@ -1,0 +1,3 @@
+link para daoloadw do git (https://git-scm.com/install/)
+Git Bash é um terminal para Windows que permite usar comandos do Git e do Unix/Linux no mesmo lugar que ajuda.
+
